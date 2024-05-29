@@ -2,4 +2,4 @@
 main.remove();
 const newHeader = document.createElement("h1");
 newHeader.setAttribute("id", "victory");
-newHeader.textContent = "Elijah is the Champion";
+newHeader.textContent = "Elijah is the champion";
